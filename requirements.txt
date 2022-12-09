@@ -1,5 +1,6 @@
 opencv-contrib-python
 Pillow
 numpy
+pandas
 streamlit-webrtc
 streamlit
